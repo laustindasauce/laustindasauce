@@ -9,7 +9,7 @@ My name is Austin Spencer. I am from Illinois but currently live in Phoenix, Ari
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=html,css,Go&theme=vue" />
 </a>
 <a href="https://github.com/abspen1/abspen1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=vue" alt="Austin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&count_private=true&include_all_commits=true&theme=vue" alt="Austin's GitHub Stats" />
 </a>
 <a href="https://github.com/abspen1/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&theme=vue" />
