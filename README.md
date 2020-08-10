@@ -1,9 +1,9 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-```
+
 My name is Austin Spencer. I am from Illinois but currently live in Phoenix, Arizona. 
-I study Computer Science at Arizona State University and plan to graduate in May of 2022. 
-```
+I study Computer Science at Arizona State University and plan to graduate in May of 2022.
+
 **You can find me on [![Twitter][1.2]][1],  [![LinkedIn][3.2]][3] ,  or [![Facebook][4.2]][4].**
 
 
