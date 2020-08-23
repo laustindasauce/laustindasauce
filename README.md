@@ -22,7 +22,15 @@ I study Computer Science at Arizona State University and plan to graduate in May
 <a href="https://github.com/abspen1/hangman-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=hangman-js&theme=vue" />
 </a>
-
+<a href="https://github.com/abspen1/Fantasy-Twitter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=hangman-js&theme=vue" />
+</a>
+<a href="https://github.com/abspen1/public-trading-algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=hangman-js&theme=vue" />
+</a>
+<a href="https://github.com/abspen1/abspen1.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=hangman-js&theme=vue" />
+</a>
 <!--
 ## 📫 Where to find me
 - [![Twitter][1.1]][1]
