@@ -29,7 +29,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=alpaca-python&theme=vue" />
 </a>
 <a href="https://github.com/abspen1/abspen1.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=vue" />
 </a>
 <!--
 ## 📫 Where to find me
