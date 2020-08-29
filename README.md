@@ -19,15 +19,15 @@ I study Computer Science at Arizona State University and plan to graduate in May
 <a href="https://github.com/abspen1/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&theme=vue" />
 </a>
-<a href="https://github.com/abspen1/hangman-js">
+<!-- <a href="https://github.com/abspen1/hangman-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=hangman-js&theme=vue" />
-</a>
-<a href="https://github.com/abspen1/Fantasy-Twitter">
+</a> -->
+<!-- <a href="https://github.com/abspen1/Fantasy-Twitter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=Fantasy-Twitter&theme=vue" />
-</a>
-<a href="https://github.com/abspen1/alpaca-python">
+</a> -->
+<!-- <a href="https://github.com/abspen1/alpaca-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=alpaca-python&theme=vue" />
-</a>
+</a> -->
 <a href="https://github.com/abspen1/abspen1.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=vue" />
 </a>
