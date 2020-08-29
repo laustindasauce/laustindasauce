@@ -31,6 +31,12 @@ NOTE: Top languages does not indicate my skill level, it is purely showing the a
 <a href="https://github.com/abspen1/abspen1.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=vue" />
 </a>
+
+
+## :computer: What I am currently working on
+* [Fantasy-Twitter](https://github.com/abspen1/Fantasy-Twitter)
+  * This repo is getting league specific information from sleeper.app and tweeting said info for the league members
+
 <!--
 ## 📫 Where to find me
 - [![Twitter][1.1]][1]
