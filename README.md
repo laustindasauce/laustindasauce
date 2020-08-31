@@ -33,7 +33,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
 </a>
 
 
-## :computer: What I am currently working on
+## :computer: Current Project
 * [Fantasy-Twitter](https://github.com/abspen1/Fantasy-Twitter)
   * This repo is getting league specific information from sleeper.app and tweeting said info for the league members
 
