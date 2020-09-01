@@ -8,7 +8,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 
 ## &#x1f4c8; GitHub Stats
-**NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my PUBLIC repositories**
+**NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories**
 
 <a href="https://github.com/abspen1/abspen1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf&theme=vue" />
