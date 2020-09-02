@@ -11,13 +11,13 @@ I study Computer Science at Arizona State University and plan to graduate in May
 **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories**
 
 <a href="https://github.com/abspen1/abspen1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf&theme=blue-green" />
 </a>
 <a href="https://github.com/abspen1/abspen1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=33&count_private=true&include_all_commits=false&theme=vue" alt="Austin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=33&count_private=true&include_all_commits=false&theme=blue-green" alt="Austin's GitHub Stats" />
 </a>
 <a href="https://github.com/abspen1/twitter-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&theme=solarized-light" />
 </a>
 <!-- <a href="https://github.com/abspen1/hangman-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=hangman-js&theme=vue" />
@@ -29,7 +29,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=alpaca-python&theme=vue" />
 </a> -->
 <a href="https://github.com/abspen1/abspen1.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=solarized-light" />
 </a>
 
 
