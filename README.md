@@ -17,7 +17,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=33&count_private=true&include_all_commits=false&theme=blue-green" alt="Austin's GitHub Stats" />
 </a>
 <a href="https://github.com/abspen1/twitter-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&theme=graywhite" />
 </a>
 <!-- <a href="https://github.com/abspen1/hangman-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=hangman-js&theme=vue" />
@@ -29,7 +29,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=alpaca-python&theme=vue" />
 </a> -->
 <a href="https://github.com/abspen1/abspen1.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=graywhite" />
 </a>
 
 
