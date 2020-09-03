@@ -35,7 +35,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## :computer: Current Project
 * [Fantasy-Twitter](https://github.com/abspen1/Fantasy-Twitter)
-  * This repo is getting league specific information from sleeper.app and tweeting said info for the league members
+  * This script is getting fantasy football league specific information from sleeper.app and tweeting said info for the league members
 
 <!--
 ## 📫 Where to find me
