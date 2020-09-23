@@ -13,7 +13,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
 ![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=33&count_private=true&include_all_commits=false&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff)
 
-<a href="https://github.com/abspen1/twitter-bot">
+<a href="https://austinspencer.works/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff" />
 </a>
 <!-- <a href="https://github.com/abspen1/hangman-js">
@@ -25,7 +25,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
 <!-- <a href="https://github.com/abspen1/alpaca-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=alpaca-python&theme=vue" />
 </a> -->
-<a href="https://github.com/abspen1/abspen1.github.io">
+<a href="https://austinspencer.works">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff" />
 </a>
 
