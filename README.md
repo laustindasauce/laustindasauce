@@ -7,7 +7,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
 **You can find me on [![Twitter][1.2]][1],  [![LinkedIn][3.2]][3] ,  or [![Facebook][4.2]][4].**
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2329BEB0&title_bg=%23555555&icon=go.svg&icon_color=%2329BEB0&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
