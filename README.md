@@ -32,8 +32,9 @@ I study Computer Science at Arizona State University and plan to graduate in May
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## :computer: Current Project
-* [Fantasy-Twitter](https://github.com/abspen1/Fantasy-Twitter)
-  * This script is getting fantasy football league specific information from sleeper.app and tweeting said info for the league members
+<a href="https://austinspencer.works">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff" />
+</a>
 
 <!--
 ## 📫 Where to find me
