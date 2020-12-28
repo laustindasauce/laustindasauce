@@ -10,7 +10,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
 ## &#x1f4c8; GitHub Stats 
 **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories**
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf,html&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
 ![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=33&count_private=true&include_all_commits=false&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff)
 
 <a href="https://austinspencer.works/twitter-bot">
