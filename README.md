@@ -9,7 +9,10 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## &#x1f4c8; GitHub Stats 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
-**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here: [![ASU][1.0]][5],  [![BOTS][2.0]][6] ,  or [![Laude Capital][3.0]][7]**
+**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here: 
+* [![ASU][1.0]][5]
+* [![BOTS][2.0]][6]
+* [![Laude Capital][3.0]][7]
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf,html&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
 -->
