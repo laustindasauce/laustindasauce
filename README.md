@@ -9,7 +9,7 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## &#x1f4c8; GitHub Stats 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
-**NOTE: A large chunk of my coding work can be found in my organizations! Be sure to check them out!**
+**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here: [![ASU][1.0]][5],  [![BOTS][2.0]][6] ,  or [![Laude Capital][3.0]][7]**
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf,html&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
 -->
@@ -47,6 +47,11 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 <!-- links to social media icons -->
 
+<!-- Organization avatars -->
+[1.0]: https://avatars0.githubusercontent.com/u/76415820?s=60&v=4 (ASU)
+[2.0]: https://avatars0.githubusercontent.com/u/76403990?s=60&v=4 (BOTS)
+[3.0]: https://avatars3.githubusercontent.com/u/76275537?s=60&v=4 (Laude Capital)
+
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
@@ -68,6 +73,11 @@ I study Computer Science at Arizona State University and plan to graduate in May
 [2]: https://github.com/abspen1
 [3]: https://www.linkedin.com/in/austin-spencer-b56a25177/
 [4]: https://www.facebook.com/austin.spencer.129
+
+<!-- Links to organizations -->
+[5]: https://github.com/asu-cse-source-code (ASU)
+[6]: https://github.com/battle-of-the-states (BOTS)
+[7]: https://github.com/laude-capital (Laude Capital)
 
 
 <!-- Resources -->
