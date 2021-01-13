@@ -33,7 +33,7 @@ jobs:
           git add .
           git config --global user.name "abspen1"
           git config --global user.email "abspencer2097@gmail.com"
-          git commit -m "🚀 "
+          git commit -m "✅   "
       - name: Push
         uses: ad-m/github-push-action@master
         with:
