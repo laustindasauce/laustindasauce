@@ -7,13 +7,18 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 20338 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 20341 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
-| Last Listened              | Top Artist                       | Top Song                          |
-| -------------------------- | -------------------------------- | --------------------------------- |
-| ![Song Cover Photo](https://lastfm.freetls.fastly.net/i/u/174s/41ff0ffdf3f6edf6a9bd53e79540ed01.jpg) | ![Song Cover Photo](https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png) | ![Song Cover Photo](https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png) |
-| Artist: **Ant Saunders**       | Artist: **Lauv**          | Artist: **Jake Scott**       |
-| Title: **U Know It's Real**          | Streams: **1395**  | Title: **Like This**          |
+| Last Listened        |
+| -------------------- |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/adc3ddeac7b7f81f9d911159756aaa64.jpg)      |
+| Artist: **Lauv** |
+| Title: **Mine (You Can't Find Love in Mollywood)**    |
+
+| Top Artist                      | Top Song                    |
+| ------------------------------- | --------------------------- |
+| Artist: **Lauv**         | Artist: **Jake Scott** |
+| Streams: **1396** | Title: **Like This**    |
 
 ## &#x1f4c8; GitHub Stats
 
