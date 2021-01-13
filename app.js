@@ -42,13 +42,13 @@ async function main() {
     topArtist = artistJSON.topartists.artist[0]
     const topArtistName = topArtist.name
     const topArtistStreams = topArtist.playcount
-    const topArtistImg = await getTopTrack(topArtistName)
+    // const topArtistImg = await getTopTrack(topArtistName)
 
     songJSON = await get(SONG_URL)
     songJSON = songJSON.toptracks.track[0]
     const topSongArtist = songJSON.artist.name
     const topSongName = songJSON.name
-    const topSongImg = songJSON.image[2]['#text']
+    // const topSongImg = songJSON.image[2]['#text']
 
     userJSON = await get(USER_URL)
     const playcount = userJSON.user.playcount
@@ -60,10 +60,10 @@ async function main() {
         .replace("{playcount}", playcount)
         .replace("{topArtist}", topArtistName)
         .replace("{topArtistStreams}", topArtistStreams)
-        .replace("{artistImg}", topArtistImg)
+        // .replace("{artistImg}", topArtistImg)
         .replace("{topSongArtist}", topSongArtist)
         .replace("{topSongName}", topSongName)
-        .replace("{topSongImg}", topSongImg);
+        // .replace("{topSongImg}", topSongImg);
 
     await fs.writeFile("README.md", readme);
 }
