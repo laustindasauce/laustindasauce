@@ -1,0 +1,24 @@
+{
+  "name": "music-ci-cd",
+  "version": "1.0.0",
+  "description": "README music ci/cd",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abspen1/abspen1.git"
+  },
+  "author": "Austin Spencer <abspencer2097@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abspen1/abspen1/issues"
+  },
+  "homepage": "https://github.com/abspen1/abspen1#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "isomorphic-unfetch": "^3.1.0",
+    "path": "^0.12.7"
+  }
+}
