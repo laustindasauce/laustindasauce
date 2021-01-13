@@ -7,12 +7,13 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! Here is what I am listening to now!
+I really enjoy listening to music! My current playcount is {playcount} 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
-![Song Cover Photo]({img})
-
-- Artist: **{artist}**
-- Song: **{song}**
+| Last Listened              | Top Artist                       | Top Song                          |
+| -------------------------- | -------------------------------- | --------------------------------- |
+| ![Song Cover Photo]({img}) | ![Song Cover Photo]({artistImg}) | ![Song Cover Photo]({topSongImg}) |
+| Artist: **{artist}**       | Artist: **{topArtist}**          | Artist: **{topSongArtist}**       |
+| Title: **{song}**          | Streams: **{topArtistStreams}**  | Title: **{topSongName}**          |
 
 ## &#x1f4c8; GitHub Stats
 
