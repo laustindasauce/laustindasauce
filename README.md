@@ -5,6 +5,15 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 **You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3] , or [![Facebook][4.2]][4].**
 
+## 🎵 Music
+
+I really enjoy listening to music! Here is what I am listening to now!
+
+![Song Cover Photo](https://lastfm.freetls.fastly.net/i/u/174s/553e3fe68f8cf27fe065ca14148ef068.jpg)
+
+- Artist: **Social House**
+- Song: **Magic in the Hamptons (feat. Lil Yachty)**
+
 ## &#x1f4c8; GitHub Stats
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
