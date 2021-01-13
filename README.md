@@ -7,12 +7,13 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! Here is what I am listening to now!
+I really enjoy listening to music! My current playcount is 20338 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
-![Song Cover Photo](https://lastfm.freetls.fastly.net/i/u/174s/553e3fe68f8cf27fe065ca14148ef068.jpg)
-
-- Artist: **Social House**
-- Song: **Magic in the Hamptons (feat. Lil Yachty)**
+| Last Listened              | Top Artist                       | Top Song                          |
+| -------------------------- | -------------------------------- | --------------------------------- |
+| ![Song Cover Photo](https://lastfm.freetls.fastly.net/i/u/174s/41ff0ffdf3f6edf6a9bd53e79540ed01.jpg) | ![Song Cover Photo](https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png) | ![Song Cover Photo](https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png) |
+| Artist: **Ant Saunders**       | Artist: **Lauv**          | Artist: **Jake Scott**       |
+| Title: **U Know It's Real**          | Streams: **1395**  | Title: **Like This**          |
 
 ## &#x1f4c8; GitHub Stats
 
