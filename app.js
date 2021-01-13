@@ -15,6 +15,8 @@ const ARTIST_URL = `${API_ROOT}?method=user.gettopartists&user=${USER}&limit=1&a
 
 const USER_URL = `${API_ROOT}?method=user.getinfo&user=${USER}&api_key=${API_KEY}&format=json`
 
+const emojis = ['🤭', '😍', ':blush:', ':satisfied:', ':stuck_out_tongue_winking_eye:', ':grin:', ':wink:', ':relaxed:', ':grimacing:']
+
 async function main() {
     const readmeTemplate = (
         await fs.readFile(path.join(process.cwd(), "./README.template.md"))
@@ -23,6 +25,10 @@ async function main() {
     const get = async (url) => {
         const r = await fetch(url);
         return await r.json();
+    }
+
+    const getRandomInt = max => {
+        return Math.floor(Math.random() * Math.floor(max));
     }
 
     const getTopTrack = async (artist) => {
@@ -53,6 +59,8 @@ async function main() {
     userJSON = await get(USER_URL)
     const playcount = userJSON.user.playcount
 
+    const emote = emojis[getRandomInt(8)]
+
     const readme = readmeTemplate
         .replace("{song}", song)
         .replace("{artist}", artist)
@@ -63,7 +71,8 @@ async function main() {
         // .replace("{artistImg}", topArtistImg)
         .replace("{topSongArtist}", topSongArtist)
         .replace("{topSongName}", topSongName)
-        // .replace("{topSongImg}", topSongImg);
+        // .replace("{topSongImg}", topSongImg)
+        .replace("{emoji}", emote);
 
     await fs.writeFile("README.md", readme);
 }
