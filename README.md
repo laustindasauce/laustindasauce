@@ -7,18 +7,18 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 20364 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 20366 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/b5e711b8becc048068634203c4dc75f2.jpg)      |
-| Artist: **Clara Mae** |
-| Title: **Overused (feat. gnash)**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/a0fad54ecbb026157cbd9a1a2ff787f8.jpg)      |
+| Artist: **Madison Beer** |
+| Title: **Dear Society**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Jake Scott** |
-| Streams: **1397** | Title: **Like This**    |
+| Streams: **1398** | Title: **Like This**    |
 
 ## &#x1f4c8; GitHub Stats
 
