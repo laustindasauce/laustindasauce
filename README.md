@@ -7,24 +7,24 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 20375 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 20392 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/cf35a24431ccb25f0f1569ae2d01971d.jpg)      |
-| Artist: **Why Don't We** |
-| Title: **Slow Down**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/4ecb90a99b915b4ac68f208fa90d7ea7.jpg)      |
+| Artist: **Lauv** |
+| Title: **fuck, i'm lonely (with Anne-Marie)**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Jake Scott** |
-| Streams: **1398** | Title: **Like This**    |
+| Streams: **1407** | Title: **Like This**    |
 
 ## &#x1f4c8; GitHub Stats
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :grin:
+**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :stuck_out_tongue_winking_eye:
 
 - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
