@@ -1,4 +1,4 @@
-name: Generate README on push && scheduled every hour
+name: Action Bot Scheduler
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - master # Run on push to master
 
   schedule:
-    - cron: '0 */6 * * *' # Run every hour
+    - cron: '0 */6 * * *' # Run every 6 hours
   workflow_dispatch:
 
 jobs:
