@@ -17,6 +17,8 @@ const USER_URL = `${API_ROOT}?method=user.getinfo&user=${USER}&api_key=${API_KEY
 
 const emojis = ['🤭', '😍', ':blush:', ':satisfied:', ':stuck_out_tongue_winking_eye:', ':grin:', ':wink:', ':relaxed:', ':grimacing:']
 
+const emojis2 = ["✌","😂","😝","😁","😱","👉","🙌","🍻","🔥","🌈","☀","🎈","🌹","💄","🎀","⚽","🎾","🏁","😡","👿","🐻","🐶","🐬","🐟","🍀","👀","🚗","🍎","💝","💙","👌","❤","😍","😉","😓","😳","💪","💩","🍸","🔑","💖","🌟","🎉","🌺","🎶","👠","🏈","⚾","🏆","👽","💀","🐵","🐮","🐩","🐎","💣","👃","👂","🍓","💘","💜","👊","💋","😘","😜","😵","🙏","👋","🚽","💃","💎","🚀","🌙","🎁","⛄","🌊","⛵","🏀","🎱","💰","👶","👸","🐰","🐷","🐍","🐫","🔫","👄","🚲","🍉","💛","💚"]
+
 async function main() {
     const readmeTemplate = (
         await fs.readFile(path.join(process.cwd(), "./README.template.md"))
@@ -61,6 +63,10 @@ async function main() {
 
     const emote = emojis[getRandomInt(8)]
 
+    const emote2Len = emojis2.length - 1
+
+    const emote2 = emojis2[getRandomInt(emote2Len)]
+
     const readme = readmeTemplate
         .replace("{song}", song)
         .replace("{artist}", artist)
@@ -72,7 +78,8 @@ async function main() {
         .replace("{topSongArtist}", topSongArtist)
         .replace("{topSongName}", topSongName)
         // .replace("{topSongImg}", topSongImg)
-        .replace("{emoji}", emote);
+        .replace("{emoji}", emote)
+        .replace("{emoji2}", emote2);
 
     await fs.writeFile("README.md", readme);
 }
