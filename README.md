@@ -7,13 +7,13 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 20456 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 20466 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/f8245c198bcc77a3592a8c6a0ccfefb1.jpg)      |
-| Artist: **Kid Quill** |
-| Title: **Small Talk**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/f44962c43cb5c8af32956b3a7831b721.jpg)      |
+| Artist: **Robin Schulz** |
+| Title: **All We Got (feat. KIDDO)**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 20456 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 👊
+## :computer: Current Project 💜
 
 <a href="https://austinspencer.works">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff" />
