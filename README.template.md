@@ -36,7 +36,7 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 ![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=33&count_private=true&include_all_commits=false&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff)
 
 <a href="https://austinspencer.works/twitter-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&theme=graywhite" />
 </a>
 <!-- <a href="https://github.com/abspen1/hangman-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=hangman-js&theme=vue" />
@@ -48,7 +48,7 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=alpaca-python&theme=vue" />
 </a> -->
 <a href="https://austinspencer.works">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=abspen1.github.io&theme=graywhite" />
 </a>
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -56,7 +56,7 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 ## :computer: Current Project {emoji2}
 
 <a href="https://austinspencer.works">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&theme=graywhite" />
 </a>
 
 <!--
