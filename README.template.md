@@ -33,7 +33,7 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abspen1&hide=css,rtf,html&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
 -->
 
-![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=33&count_private=true&include_all_commits=false&bg_color=30,4ca2cd,34e89e&title_color=fff&text_color=fff)
+![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abspen1&show_icons=true&line_height=33&count_private=true&include_all_commits=false&theme=graywhite)
 
 <a href="https://austinspencer.works/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=twitter-bot&theme=graywhite" />
