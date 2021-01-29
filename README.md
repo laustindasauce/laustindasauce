@@ -7,18 +7,18 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 20684 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 20725 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/28cdc196640d088997228e3bb60d2f8e.jpg)      |
-| Artist: **Lennon Stella** |
-| Title: **Kissing Other People**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/407e9dd73dc9719f766962bb68bf2966.jpg)      |
+| Artist: **Lauv** |
+| Title: **2021**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Jake Scott** |
-| Streams: **1422** | Title: **Like This**    |
+| Streams: **1424** | Title: **Like This**    |
 
 ## &#x1f4c8; GitHub Stats
 
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 20684 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 🐫
+## :computer: Current Project 💜
 
 <a href="https://austinspencer.works">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&theme=graywhite" />
