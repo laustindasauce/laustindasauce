@@ -7,13 +7,13 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 22397 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 22409 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/43b54c9c76c5aaa6011b1f46a4b3b2d5.jpg)      |
-| Artist: **Jeremy Zucker** |
-| Title: **emily**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/7bf0bef0bb6a214ef60aeef621284b88.jpg)      |
+| Artist: **Mike Shinoda** |
+| Title: **Happy Endings (feat. iann dior and UPSAHL)**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -24,7 +24,7 @@ I really enjoy listening to music! My current playcount is 22397 🤯 . Here is 
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :satisfied:
+**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :wink:
 
 - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 22397 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 💖
+## :computer: Current Project ❤
 
 <a href="https://austinspencer.works">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&theme=graywhite" />
