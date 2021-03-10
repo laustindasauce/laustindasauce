@@ -7,24 +7,24 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 22500 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 22506 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/a155290ba89a3c9b6992e6a27202090a.jpg)      |
-| Artist: **Lauv** |
-| Title: **i'm so tired...**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/c4c9df3feb9e51590871c4eaa585ed57.jpg)      |
+| Artist: **PRETTYMUCH** |
+| Title: **Summer On You**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Jake Scott** |
-| Streams: **1469** | Title: **Like This**    |
+| Streams: **1471** | Title: **Like This**    |
 
 ## &#x1f4c8; GitHub Stats
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** 😍
+**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** 🤭
 
 - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 22500 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 🐮
+## :computer: Current Project ❤
 
 <a href="https://austinspencer.works">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&theme=graywhite" />
