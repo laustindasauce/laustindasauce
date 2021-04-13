@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 
 ## :computer: Current Project {emoji2}
 
-<a href="https://austinspencer.works">
+<a href="https://github.com/abspen1/discord-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&theme=graywhite" />
 </a>
 
