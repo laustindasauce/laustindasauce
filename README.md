@@ -7,24 +7,24 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 25909 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 25988 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg)      |
-| Artist: **The Weeknd** |
-| Title: **Save Your Tears**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/c665e42298bc6cf7ef8719d53e86e653.png)      |
+| Artist: **blackbear** |
+| Title: **clown (with Trevor Daniel)**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Jake Scott** |
-| Streams: **1501** | Title: **Like This**    |
+| Streams: **1503** | Title: **Like This**    |
 
 ## &#x1f4c8; GitHub Stats
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :satisfied:
+**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** 😍
 
 - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 25909 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 🐬
+## :computer: Current Project 🍓
 
 <a href="https://github.com/abspen1/discord-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&theme=graywhite" />
