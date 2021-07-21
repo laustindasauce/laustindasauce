@@ -7,13 +7,13 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 26309 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 26342 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/974a3ed2902c890120fcb84de8781ebf.jpg)      |
-| Artist: **Captain Cuts** |
-| Title: **Stuck In My Head (feat. AJ Mitchell)**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/6e8efd84c26dde20b6215afc8bf2fe3e.jpg)      |
+| Artist: **Quinn XCII** |
+| Title: **Feel Something**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 26309 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabspen1&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 🍻
+## :computer: Current Project 🐫
 
 <a href="https://github.com/abspen1/discord-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abspen1&repo=discord-bot&theme=graywhite" />
