@@ -31,7 +31,7 @@ jobs:
       - name: Add to git repo
         run: |
           git add .
-          git config --global user.name "abspen1"
+          git config --global user.name "austinbspencer"
           git config --global user.email "abspencer2097@gmail.com"
           git commit -m "✅   "
       - name: Push
