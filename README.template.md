@@ -35,7 +35,7 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 
 ![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=austinbspencer&show_icons=true&line_height=33&count_private=true&include_all_commits=false&theme=graywhite)
 
-<a href="https://austinspencer.works/twitter-bot">
+<a href="https://austinbspencer.com/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=twitter-bot&theme=graywhite" />
 </a>
 <!-- <a href="https://github.com/austinbspencer/hangman-js">
@@ -47,7 +47,7 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 <!-- <a href="https://github.com/austinbspencer/alpaca-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=alpaca-python&theme=vue" />
 </a> -->
-<a href="https://austinspencer.works">
+<a href="https://austinbspencer.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=austinbspencer.github.io&theme=graywhite" />
 </a>
 
