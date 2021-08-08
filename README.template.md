@@ -47,16 +47,16 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 <!-- <a href="https://github.com/austinbspencer/alpaca-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=alpaca-python&theme=vue" />
 </a> -->
-<a href="https://git.austinbspencer.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=austinbspencer.github.io&theme=graywhite" />
+<a href="https://austinbspencer.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a>
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## :computer: Current Project {emoji2}
 
-<a href="https://github.com/austinbspencer/discord-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=discord-bot&theme=graywhite" />
+<a href="https://github.com/austinbspencer/node-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
 </a>
 
 <!--
