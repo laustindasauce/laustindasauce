@@ -89,9 +89,9 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/austinnspencer
+[1]: https://twitter.com/austinbspencer
 [2]: https://github.com/austinbspencer
-[3]: https://www.linkedin.com/in/austin-spencer-b56a25177/
+[3]: https://www.linkedin.com/in/austinbspencer/
 [4]: https://www.facebook.com/austin.spencer.129
 
 <!-- Links to organizations -->
