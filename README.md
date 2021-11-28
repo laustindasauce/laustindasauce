@@ -7,13 +7,13 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 31566 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 31573 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/519a524cecb18e7182646331ed8390c8.jpg)      |
-| Artist: **Sammy Adams** |
-| Title: **On My Own**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/625d8735f4f0bf1cbf3c779fd4746bdc.jpg)      |
+| Artist: **Khalid** |
+| Title: **Therapy**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -24,7 +24,7 @@ I really enjoy listening to music! My current playcount is 31566 🤯 . Here is 
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :stuck_out_tongue_winking_eye:
+**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :satisfied:
 
 - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
