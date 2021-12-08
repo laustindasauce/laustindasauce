@@ -7,13 +7,13 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 31873 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 31878 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/a7a27af7eb7ab4fbb5ac5d7aff59274a.jpg)      |
-| Artist: **Jeremy Zucker** |
-| Title: **Therapist**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/e74cee36a071f3c3a1b9bcd70064456d.jpg)      |
+| Artist: **6LACK** |
+| Title: **Elephant in the Room**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 31873 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 💙
+## :computer: Current Project 💃
 
 <a href="https://github.com/austinbspencer/node-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
