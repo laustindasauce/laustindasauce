@@ -11,9 +11,9 @@ I really enjoy listening to music! My current playcount is 36175 🤯 . Here is 
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/95c9fbd7db1ca0b640ecf89c340809cf.jpg)      |
-| Artist: **Arizona Zervas** |
-| Title: **MY TIME**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/82dfd70a5d32d402b6e0e9cda56a13ed.jpg)      |
+| Artist: **AsTN** |
+| Title: **You're Almost There**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 36175 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 💛
+## :computer: Current Project 👊
 
 <a href="https://github.com/austinbspencer/node-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
