@@ -7,18 +7,18 @@ I study Computer Science at Arizona State University and plan to graduate in May
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 38449 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 38474 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/5e0a9f4ef25f8789f13772fad529384a.jpg)      |
-| Artist: **Quinn XCII** |
-| Title: **Iron & Steel**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/14dc820f35e279891e7755ad22bf28fb.png)      |
+| Artist: **Wiz Khalifa** |
+| Title: **Stayin Out All Night**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
-| Streams: **1918** | Title: **i'm so tired...**    |
+| Streams: **1920** | Title: **i'm so tired...**    |
 
 ## &#x1f4c8; GitHub Stats
 
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 38449 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project 🐶
+## :computer: Current Project 👊
 
 <a href="https://github.com/austinbspencer/node-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
