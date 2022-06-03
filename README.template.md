@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 
 ## :computer: Current Project {emoji2}
 
-<a href="https://github.com/austinbspencer/node-backend">
+<a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
 </a>
 
