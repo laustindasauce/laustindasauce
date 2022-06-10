@@ -1,7 +1,8 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am from Illinois but currently live in Phoenix, Arizona.
-I study Computer Science at Arizona State University and plan to graduate in May of 2022.
+I studied Computer Science at Arizona State University.
+Currently working as a Data Engineer at USAA.
 
 **You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3] , or [![Facebook][4.2]][4].**
 
@@ -53,11 +54,11 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## :computer: Current Project {emoji2}
+<!-- ## :computer: Current Project {emoji2}
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
-</a>
+</a> -->
 
 <!--
 ## 📫 Where to find me
