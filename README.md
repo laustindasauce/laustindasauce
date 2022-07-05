@@ -8,24 +8,24 @@ Currently working as a Data Engineer at USAA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 39710 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 39765 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/6c5d5e7ea3df285661107a85c31e5612.jpg)      |
-| Artist: **HRVY** |
-| Title: **Told You So**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/9b0dc8d8416adc73226d2228c2036a8f.jpg)      |
+| Artist: **Quinn XCII** |
+| Title: **Stung**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
-| Streams: **1970** | Title: **i'm so tired...**    |
+| Streams: **1975** | Title: **i'm so tired...**    |
 
 ## &#x1f4c8; GitHub Stats
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :stuck_out_tongue_winking_eye:
+**NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :wink:
 
 - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
