@@ -27,9 +27,9 @@ I really enjoy listening to music! My current playcount is {playcount} 🤯 . He
 
 <!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** {emoji} -->
 
-- [![ASU][1.0]][5]
+<!-- - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
-- [![Laude Capital][3.0]][7]
+- [![Laude Capital][3.0]][7] -->
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinbspencer&hide=css,rtf,html&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
 -->
