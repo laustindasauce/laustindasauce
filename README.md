@@ -8,13 +8,13 @@ Currently working as a Data Engineer at USAA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 40506 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 40520 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/005f239a6a154deb4c1e0d9f02ba5430.png)      |
-| Artist: **Dréya Mac** |
-| Title: **Own Brand (Baddie)**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png)      |
+| Artist: **Chris56** |
+| Title: **VAGUE**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -54,7 +54,7 @@ I really enjoy listening to music! My current playcount is 40506 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project 😉
+<!-- ## :computer: Current Project 🎾
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
