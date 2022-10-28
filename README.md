@@ -8,18 +8,18 @@ Currently working as a Data Engineer at USAA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 44410 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 44455 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/d897b8b9afe75c015ae753ff914f9021.jpg)      |
-| Artist: **Post Malone** |
-| Title: **I Like You (A Happier Song) (with Doja Cat)**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg)      |
+| Artist: **Lany** |
+| Title: **get away**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
-| Streams: **2507** | Title: **i'm so tired...**    |
+| Streams: **2508** | Title: **i'm so tired...**    |
 
 ## &#x1f4c8; GitHub Stats
 
@@ -54,7 +54,7 @@ I really enjoy listening to music! My current playcount is 44410 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project 🍸
+<!-- ## :computer: Current Project 🐷
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
