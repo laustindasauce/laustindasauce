@@ -8,18 +8,18 @@ Currently working as a Data Engineer at USAA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 45316 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 45324 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/3486b2719a580cf2f67d3a26b8c6b41b.png)      |
-| Artist: **mike.** |
-| Title: **commas**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/5b55d8777a3ac44cba54eb73c8896591.jpg)      |
+| Artist: **blackbear** |
+| Title: **the idea**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
-| Streams: **2591** | Title: **i'm so tired...**    |
+| Streams: **2592** | Title: **i'm so tired...**    |
 
 ## &#x1f4c8; GitHub Stats
 
