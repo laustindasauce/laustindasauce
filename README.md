@@ -8,13 +8,13 @@ Currently working as a Data Engineer at USAA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 52069 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 52070 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/7d67a5bde54508253b1246135915af68.jpg)      |
-| Artist: **Audrey Mika** |
-| Title: **Red Gatorade**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/9375c817003bcc97814aa01b07d31fb3.jpg)      |
+| Artist: **Mat Kearney** |
+| Title: **Money**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -25,7 +25,7 @@ I really enjoy listening to music! My current playcount is 52069 🤯 . Here is 
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :wink: -->
+<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :blush: -->
 
 <!-- - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
