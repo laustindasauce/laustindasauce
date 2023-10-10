@@ -31,6 +31,7 @@ jobs:
       - name: Commit new version
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
+          commit_author: Bot <actions@github.com>
           commit_message: "[Bot] update README.md"
 
       - name: Deploy 🚀
