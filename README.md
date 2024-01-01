@@ -8,18 +8,18 @@ Currently working as a Data Engineer at USAA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 63288 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 63296 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/cfa1f99baf6a8a719c8e4f8511d3c8cf.jpg)      |
-| Artist: **Russ** |
-| Title: **CIVIL WAR - Bonus**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/899e7311e843a4f578e50e868517d8ea.jpg)      |
+| Artist: **Jonas Brothers** |
+| Title: **Waffle House**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
-| Streams: **3345** | Title: **i'm so tired...**    |
+| Streams: **3347** | Title: **i'm so tired...**    |
 
 ## &#x1f4c8; GitHub Stats
 
@@ -54,7 +54,7 @@ I really enjoy listening to music! My current playcount is 63288 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project ⛵
+<!-- ## :computer: Current Project 😉
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
