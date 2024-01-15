@@ -1,6 +1,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am from Illinois but currently live in Phoenix, Arizona.
+Bloomington, Illinois -> Phoenix, Arizona -> Charleston, South Carolina.
+
 I studied Computer Science at Arizona State University.
 Currently working as a Data Engineer at USAA.
 
