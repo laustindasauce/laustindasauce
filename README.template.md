@@ -3,7 +3,7 @@
 Bloomington, Illinois -> Phoenix, Arizona -> **Charleston, South Carolina**.
 
 I studied Computer Science at Arizona State University.
-Currently working as a Data Engineer at USAA.
+Currently working as a Platform Engineer.
 
 **You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3] , or [![Facebook][4.2]][4].**
 
