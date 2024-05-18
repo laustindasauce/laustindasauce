@@ -6,19 +6,18 @@ on:
       - master # Run on push to master
 
   schedule:
-    - cron: "0 */4 * * *" # Run every 4 hours
+    - cron: "0 */6 * * *" # Run every 6 hours
   workflow_dispatch:
 
 jobs:
   Build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - name: magic setup
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v4
         with:
-          node-version: 14.6.0
+          node-version: 18
 
       - run: yarn
 
@@ -29,13 +28,13 @@ jobs:
           USER: ${{ secrets.USER }}
 
       - name: Commit new version
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_author: Bot <actions@github.com>
           commit_message: "[Bot] update README.md"
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: master # The branch the action should deploy to.
           folder: . # The folder the action should deploy.
