@@ -5,24 +5,24 @@ Bloomington, Illinois -> Phoenix, Arizona -> **Charleston, South Carolina**.
 I studied Computer Science at Arizona State University.
 Currently working as a Platform Engineer.
 
-**You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3] , or [![Facebook][4.2]][4].**
+**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a>
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 69420 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 69423 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png)      |
-| Artist: **Surfer Girl** |
-| Title: **Rush Hour (with Bryce Vine)**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/c904df061df360e49b15660a2b2584d9.jpg)      |
+| Artist: **Asiris** |
+| Title: **my friend's toyota**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
 | Streams: **3446** | Title: **i'm so tired...**    |
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
@@ -35,7 +35,7 @@ I really enjoy listening to music! My current playcount is 69420 🤯 . Here is 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinbspencer&hide=css,rtf,html&bg_color=30,34e89e,4ca2cd&title_color=fff&text_color=fff")
 -->
 
-![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=austinbspencer&show_icons=true&line_height=33&count_private=true&include_all_commits=false&theme=graywhite)
+<!-- ![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=austinbspencer&show_icons=true&line_height=33&count_private=true&include_all_commits=false&theme=graywhite) -->
 
 <!-- <a href="https://git.austinbspencer.com/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=twitter-bot&theme=graywhite" />
@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is 69420 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project 🔑
+<!-- ## :computer: Current Project 💀
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
@@ -86,7 +86,7 @@ I really enjoy listening to music! My current playcount is 69420 🤯 . Here is 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+[3.2]: https://i.imgur.com/OQUXwNp.jpeg "LinkedIn icon without padding"
 [4.2]: http://i.imgur.com/fep1WsG.png "facebook icon without padding"
 
 <!-- links to your social media accounts -->
