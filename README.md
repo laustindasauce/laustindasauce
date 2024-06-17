@@ -9,13 +9,13 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 70114 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 70124 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/c04b2d8a2a154f815e714f86d29d9252.jpg)      |
-| Artist: **Rory** |
-| Title: **Don't Go**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/db1b218db65cf82e6e0497a6d44f63a5.jpg)      |
+| Artist: **Simple Minds** |
+| Title: **Don't You (Forget About Me)**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -26,7 +26,7 @@ I really enjoy listening to music! My current playcount is 70114 🤯 . Here is 
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :wink: -->
+<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** 🤭 -->
 
 <!-- - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is 70114 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project 👿
+<!-- ## :computer: Current Project 😵
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
