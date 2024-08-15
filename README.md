@@ -9,18 +9,18 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 71384 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 71413 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/b47491ee6cc299ce961b97c37a27b4e1.jpg)      |
-| Artist: **6LACK** |
-| Title: **Temporary (feat. Don Toliver)**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/58207b67ab30003533be165cd778c8d3.jpg)      |
+| Artist: **Vitamin String Quartet** |
+| Title: **Don’t Start Now**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
-| Streams: **3469** | Title: **I Like Me Better**    |
+| Streams: **3472** | Title: **I Like Me Better**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is 71384 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project 👠
+<!-- ## :computer: Current Project 🔥
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
