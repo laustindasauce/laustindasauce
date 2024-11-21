@@ -9,24 +9,24 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 73785 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 73798 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/65513c8fdd95b7b33d3c357dad36f4b3.jpg)      |
-| Artist: **Post Malone** |
-| Title: **Mourning**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/a7bfd2b07120849286ccda62f34bfb43.png)      |
+| Artist: **Quinn XCII** |
+| Title: **Godspeed**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
-| Streams: **3534** | Title: **I Like Me Better**    |
+| Streams: **3535** | Title: **I Like Me Better**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :satisfied: -->
+<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :relaxed: -->
 
 <!-- - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
