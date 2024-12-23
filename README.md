@@ -9,13 +9,13 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 74758 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 74766 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/d9a790b6c8526a4c8cb9862c64bc3342.jpg)      |
-| Artist: **Post Malone** |
-| Title: **92 Explorer**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/debb423cbaba4e17cecb7b2c3d18f189.png)      |
+| Artist: **John Mayer** |
+| Title: **Slow Dancing in a Burning Room**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is 74758 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project ⚾
+<!-- ## :computer: Current Project ⚽
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
