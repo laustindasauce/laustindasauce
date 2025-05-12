@@ -9,24 +9,24 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 77464 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 77469 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/80c07dac7e6d0aec7ce19e7bbcdbb8f0.jpg)      |
-| Artist: **Quinn XCII** |
-| Title: **Olive Tree**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/cc6b9c3dcaed158c75e36f5569d75e26.jpg)      |
+| Artist: **Skizzy Mars** |
+| Title: **R U OK?**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Lauv**         | Artist: **Lauv** |
-| Streams: **3637** | Title: **I Like Me Better**    |
+| Streams: **3638** | Title: **I Like Me Better**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :relaxed: -->
+<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :satisfied: -->
 
 <!-- - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is 77464 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project 😍
+<!-- ## :computer: Current Project 🌺
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
