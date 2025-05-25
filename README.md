@@ -9,13 +9,13 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 77873 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 77886 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/70a8cd6ad91f2ed4f70fdd640ee80b00.jpg)      |
-| Artist: **Brothers Osborne** |
-| Title: **Finish This Drink**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/fdfaaf50810965e62e2567b3c8da586c.jpg)      |
+| Artist: **Bailey Zimmerman** |
+| Title: **Backup Plan (feat. Luke Combs)**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is 77873 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project 😜
+<!-- ## :computer: Current Project 💩
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
