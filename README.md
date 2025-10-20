@@ -9,13 +9,13 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 82675 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 82693 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/7b3b095a0c96db1f7291758e3e447eda.jpg)      |
-| Artist: **Lany** |
-| Title: **Good Parts**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/f7c7e42a9ca893f1798c34f43cc59991.jpg)      |
+| Artist: **Thomas Day** |
+| Title: **Sentimental**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -26,7 +26,7 @@ I really enjoy listening to music! My current playcount is 82675 🤯 . Here is 
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :grin: -->
+<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :relaxed: -->
 
 <!-- - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
