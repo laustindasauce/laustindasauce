@@ -9,24 +9,24 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 83877 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 83906 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/fc5565809048f27c2916e368f5041f92.jpg)      |
-| Artist: **Luke Christopher** |
-| Title: **a little bit of hope...**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/23a64d64eb1c6045685544d93271825e.jpg)      |
+| Artist: **Matthew Chaim** |
+| Title: **Sunflowers**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Luke Christopher**         | Artist: **Finnolia Sound Effects** |
-| Streams: **3841** | Title: **Bathtub Water Running (Version 2) [Loopable Loop No Fade Baby Sleep Relaxing Tub Filling Up Background Ambience Sound Effect]**    |
+| Streams: **3844** | Title: **Bathtub Water Running (Version 2) [Loopable Loop No Fade Baby Sleep Relaxing Tub Filling Up Background Ambience Sound Effect]**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
 <!-- **NOTE: 'Most Used Languages' does not indicate my skill level, it is purely showing the amount of each language I have coded in my *public* repositories** -->
 
-<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :relaxed: -->
+<!-- **NOTE: A large chunk of my coding work can be found in my organizations! You can find them on left side of my profile page or right here:** :blush: -->
 
 <!-- - [![ASU][1.0]][5]
 - [![BOTS][2.0]][6]
