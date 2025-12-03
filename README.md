@@ -9,18 +9,18 @@ Currently working as a Platform Engineer.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 84274 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 84288 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/7febb396e3c072b38744369b442d4277.jpg)      |
-| Artist: **Harry Hudson** |
-| Title: **Mean To Love**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png)      |
+| Artist: **Finnolia Sound Effects** |
+| Title: **Bathtub Water Running (Version 2) [Loopable Loop No Fade Baby Sleep Relaxing Tub Filling Up Background Ambience Sound Effect]**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Luke Christopher**         | Artist: **Finnolia Sound Effects** |
-| Streams: **3879** | Title: **Bathtub Water Running (Version 2) [Loopable Loop No Fade Baby Sleep Relaxing Tub Filling Up Background Ambience Sound Effect]**    |
+| Streams: **3880** | Title: **Bathtub Water Running (Version 2) [Loopable Loop No Fade Baby Sleep Relaxing Tub Filling Up Background Ambience Sound Effect]**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
@@ -55,7 +55,7 @@ I really enjoy listening to music! My current playcount is 84274 🤯 . Here is 
 
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faustinbspencer&count_bg=%2338A1A8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- ## :computer: Current Project 🎀
+<!-- ## :computer: Current Project 🍀
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
