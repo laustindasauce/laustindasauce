@@ -1,6 +1,6 @@
 {
   "name": "music-ci-cd",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "README music ci/cd",
   "main": "app.js",
   "scripts": {
@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abspen1/abspen1.git"
+    "url": "git+https://github.com/laustindasauce/laustindasauce.git"
   },
   "author": "Austin Spencer <abspencer2097@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abspen1/abspen1/issues"
+    "url": "https://github.com/laustindasauce/laustindasauce/issues"
   },
-  "homepage": "https://github.com/abspen1/abspen1#readme",
+  "homepage": "https://github.com/laustindasauce/laustindasauce#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "isomorphic-unfetch": "^3.1.0",
+    "isomorphic-unfetch": "^4.0.2",
     "path": "^0.12.7"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

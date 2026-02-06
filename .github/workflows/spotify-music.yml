@@ -6,18 +6,18 @@ on:
       - master # Run on push to master
 
   schedule:
-    - cron: "0 */6 * * *" # Run every 6 hours
+    - cron: "0 */12 * * *" # Run every 12 hours
   workflow_dispatch:
 
 jobs:
   Build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 24
 
       - run: yarn
 
@@ -28,7 +28,7 @@ jobs:
           USER: ${{ secrets.USER }}
 
       - name: Commit new version
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_author: Bot <actions@github.com>
           commit_message: "[Bot] update README.md"
