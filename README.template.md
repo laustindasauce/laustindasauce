@@ -1,6 +1,6 @@
 ## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Bloomington, Illinois -> Phoenix, Arizona -> **Charleston, South Carolina**.
+Illinois -> Arizona -> South Carolina -> **Indiana**.
 
 I studied Computer Science at Arizona State University.
 Currently working as a Senior Architecture Specialist at CNA.
