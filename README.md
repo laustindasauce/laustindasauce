@@ -5,22 +5,22 @@ Illinois -> Arizona -> South Carolina -> **Indiana**.
 I studied Computer Science at Arizona State University.
 Currently working as a Senior Architecture Specialist at CNA.
 
-**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :satisfied:
+**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :stuck_out_tongue_winking_eye:
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 85297 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 85322 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png)      |
-| Artist: **Adam Yokum** |
-| Title: **crash my party**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/779b5a6eaa74c2870d6a54309c98f902.jpg)      |
+| Artist: **Post Malone** |
+| Title: **Socialite**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Luke Christopher**         | Artist: **Lauv** |
-| Streams: **4010** | Title: **I Like Me Better**    |
+| Streams: **4011** | Title: **I Like Me Better**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 85297 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project ☀
+<!-- ## :computer: Current Project 👽
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
