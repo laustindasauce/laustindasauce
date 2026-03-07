@@ -5,22 +5,22 @@ Illinois -> Arizona -> South Carolina -> **Indiana**.
 I studied Computer Science at Arizona State University.
 Currently working as a Senior Architecture Specialist at CNA.
 
-**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> 🤭
+**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> 😍
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 85629 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 85664 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/230efde3285d38a1466d2e3799acf37d.jpg)      |
-| Artist: **Jon Bellion** |
-| Title: **Two Car Garage**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/5e11ca53b6a0077395f1b8139705d130.png)      |
+| Artist: **The Kid LAROI** |
+| Title: **THE MOMENT (feat. Clara La San)**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Luke Christopher**         | Artist: **Lauv** |
-| Streams: **4014** | Title: **I Like Me Better**    |
+| Streams: **4015** | Title: **I Like Me Better**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 85629 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project 🐵
+<!-- ## :computer: Current Project 🍓
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
