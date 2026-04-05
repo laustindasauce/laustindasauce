@@ -9,13 +9,13 @@ Currently working as a Senior Architecture Specialist at CNA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 86319 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 86331 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/aad0bb5cb0118b7facad918a1249d138.png)      |
-| Artist: **Spacey Jane** |
-| Title: **Do You Really Love Her**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/a9e3daa5dbe5e21aa0261169d9edf913.jpg)      |
+| Artist: **Arden Jones** |
+| Title: **someone new**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 86319 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project 😉
+<!-- ## :computer: Current Project 🙌
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
