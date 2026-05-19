@@ -5,22 +5,22 @@ Illinois -> Arizona -> South Carolina -> **Indiana**.
 I studied Computer Science at Arizona State University.
 Currently working as a Senior Architecture Specialist at CNA.
 
-**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :relaxed:
+**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :satisfied:
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 86822 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 86832 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/6e77c4b28ce534ecb76c60612a525a16.jpg)      |
-| Artist: **blackbear** |
-| Title: **do re mi**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/e5f78c67b5efe42bb043f9c99af62517.jpg)      |
+| Artist: **G-Eazy** |
+| Title: **Down For Me (feat. 24hrs)**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Luke Christopher**         | Artist: **Lauv** |
-| Streams: **4055** | Title: **I Like Me Better**    |
+| Streams: **4057** | Title: **I Like Me Better**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 86822 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project 🎁
+<!-- ## :computer: Current Project 💛
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
