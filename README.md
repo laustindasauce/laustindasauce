@@ -5,17 +5,17 @@ Illinois -> Arizona -> South Carolina -> **Indiana**.
 I studied Computer Science at Arizona State University.
 Currently working as a Senior Architecture Specialist at CNA.
 
-**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :grin:
+**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> 🤭
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 87048 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 87080 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/6db576307ee7bdd81056432542b6bab7.jpg)      |
-| Artist: **Billie Eilish** |
-| Title: **BIRDS OF A FEATHER**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/fec9ba1167908aaeb89b9fbce241043d.jpg)      |
+| Artist: **Teddy Swims** |
+| Title: **dose**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 87048 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project 👽
+<!-- ## :computer: Current Project 💝
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
