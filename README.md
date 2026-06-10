@@ -5,7 +5,7 @@ Illinois -> Arizona -> South Carolina -> **Indiana**.
 I studied Computer Science at Arizona State University.
 Currently working as a Senior Architecture Specialist at CNA.
 
-**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :grin:
+**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :stuck_out_tongue_winking_eye:
 
 ## 🎵 Music
 
