@@ -5,17 +5,17 @@ Illinois -> Arizona -> South Carolina -> **Indiana**.
 I studied Computer Science at Arizona State University.
 Currently working as a Senior Architecture Specialist at CNA.
 
-**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :wink:
+**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :grin:
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 87374 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 87381 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/06ccc3cc0cfe1e4ca42a26ac00d97a7b.jpg)      |
-| Artist: **Olivia Rodrigo** |
-| Title: **maggots for brains**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/d262f4c26af1eff4f8a13da62eb5d8b9.jpg)      |
+| Artist: **Drake** |
+| Title: **Janice STFU**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 87374 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project 🐮
+<!-- ## :computer: Current Project 😱
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
