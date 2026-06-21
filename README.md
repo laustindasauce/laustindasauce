@@ -9,13 +9,13 @@ Currently working as a Senior Architecture Specialist at CNA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 87479 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 87493 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/08e3f15aca0423b084fb49f342756f3b.png)      |
-| Artist: **The Weeknd** |
-| Title: **True Colors**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/62fa06d8e36b3d32e538cc1bf99c7e43.png)      |
+| Artist: **Drake** |
+| Title: **Janice STFU**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 87479 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project 🏈
+<!-- ## :computer: Current Project 🎉
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
