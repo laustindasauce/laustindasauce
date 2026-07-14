@@ -9,18 +9,18 @@ Currently working as a Senior Enterprise Architect at CNA.
 
 ## 🎵 Music
 
-I really enjoy listening to music! My current playcount is 87805 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
+I really enjoy listening to music! My current playcount is 87824 🤯 . Here is what I am listening to now and also, my top artist and song of all time!
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/b2571ce80ee1def4649fc3585640c19a.gif)      |
-| Artist: **6LACK** |
-| Title: **I Guess**    |
+| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/af5bb9d2c811838d63be91bc348fffdc.jpg)      |
+| Artist: **Luke Christopher** |
+| Title: **Jameson**    |
 
 | Top Artist                      | Top Song                    |
 | ------------------------------- | --------------------------- |
 | Artist: **Luke Christopher**         | Artist: **Lauv** |
-| Streams: **4074** | Title: **I Like Me Better**    |
+| Streams: **4075** | Title: **I Like Me Better**    |
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 87805 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project 😝
+<!-- ## :computer: Current Project 💰
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
