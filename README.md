@@ -5,7 +5,7 @@ Illinois -> Arizona -> South Carolina -> **Indiana**.
 I studied Computer Science at Arizona State University.
 Currently working as a Senior Enterprise Architect at CNA.
 
-**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> :grin:
+**You can find me on** <a href="https://www.linkedin.com/in/austinbspencer/"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="13px" alt="LinkedIn" > </a> 😍
 
 ## 🎵 Music
 
@@ -13,7 +13,7 @@ I really enjoy listening to music! My current playcount is 88087 🤯 . Here is 
 
 | Last Listened        |
 | -------------------- |
-| ![Photo](https://lastfm.freetls.fastly.net/i/u/174s/3c31d62d270545e19bc630db036b9085.jpg)      |
+| ![Photo](https://lastfm-img.freetls.fastly.net/i/u/174s/3c31d62d270545e19bc630db036b9085.jpg)      |
 | Artist: **Macklemore** |
 | Title: **Can't Hold Us (feat. Ray Dalton)**    |
 
@@ -53,7 +53,7 @@ I really enjoy listening to music! My current playcount is 88087 🤯 . Here is 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=react-portfolio&theme=graywhite" />
 </a> -->
 
-<!-- ## :computer: Current Project 💃
+<!-- ## :computer: Current Project 🍸
 
 <a href="https://github.com/austinbspencer/twitter-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=austinbspencer&repo=node-backend&theme=graywhite" />
